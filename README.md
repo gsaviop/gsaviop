@@ -6,27 +6,27 @@
 ---
 
 ### Programming languages I know:
-- Python
-- Javascript / Typescript
-- R
+- Python;
+- Javascript / Typescript;
+- R;
 
 ### Stuff I can work with:
-- Web development using Python (Flask) and Javascript (React, Node.js)
-- Managing and operating on relational databases (PostgreSQL, SQLite)
-- REST APIs
-- Parsing and gleaning data using Python (Numpy, Pandas) as well as making data visualizations (matplotlib)
+- Web development using Python (Flask) and Javascript (React, Node.js);
+- Managing and operating on relational databases (PostgreSQL, SQLite);
+- REST APIs;
+- Parsing and gleaning data using Python (Numpy, Pandas) as well as making data visualizations (matplotlib);
 
 ### What I'm currently working on:
-- Google Data Analytics Professional Certificate on Coursera
-- Fullstack Web Development Certification at [Cubos Academy](https://cubos.academy)
-- Learning Rust through the [Rust Book](https://doc.rust-lang.org/book/) and other online resources
+- Google Data Analytics Professional Certificate on Coursera;
+- Fullstack Web Development Certification at [Cubos Academy](https://cubos.academy);
+- Learning Rust through the [Rust Book](https://doc.rust-lang.org/book/) and other online resources;
 
 ### Things I'm interested in getting into:
-- Typescript
-- Machine Learning
-- Cloud Computing
-- More in-depth, low-level computer science
-- Large Language Models
+- Typescript;
+- Machine Learning;
+- Cloud Computing;
+- More in-depth, low-level computer science;
+- Large Language Models;
 
 
 <!--
