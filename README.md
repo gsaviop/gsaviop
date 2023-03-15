@@ -22,7 +22,7 @@
 - Learning Rust through the [Rust Book](https://doc.rust-lang.org/book/) and other online resources;
 
 ### Things I'm interested in getting into:
-- Typescript;
+- DevOps
 - Machine Learning;
 - Cloud Computing;
 - More in-depth, low-level computer science;
