@@ -23,10 +23,10 @@
 
 ### Things I'm interested in getting into:
 - DevOps;
-- Machine Learning;
+- Machine Learning and Large Language Models;
 - Cloud Computing;
 - More in-depth, low-level computer science;
-- Large Language Models;
+- Supply Chain Management and logistics;
 
 
 <!--
