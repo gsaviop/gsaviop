@@ -19,11 +19,11 @@
 ### What I'm currently working on:
 - Google Data Analytics Professional Certificate on Coursera;
 - Fullstack Web Development Certification at [Cubos Academy](https://cubos.academy);
-- Learning Rust through the [Rust Book](https://doc.rust-lang.org/book/) and other online resources;
+- Studying my way through the world of SAP application development and workflows with the ABAP programming language and SAP S/4HANA
 
 ### Things I'm interested in getting into:
 - DevOps;
-- ERP software and applications;
+- Becoming SAP-certified;
 - Machine Learning and Large Language Models;
 - Cloud Computing;
 - More in-depth, low-level computer science;
