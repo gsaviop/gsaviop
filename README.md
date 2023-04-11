@@ -11,7 +11,7 @@
 - R;
 
 ### Stuff I can work with:
-- Web development using Python (Flask) and Javascript (React, Node.js);
+- Fullstack web development using Python (Flask) and Javascript (React, Node.js);
 - Managing and operating on relational databases (PostgreSQL, SQLite);
 - REST APIs;
 - Parsing and gleaning data using Python (Numpy, Pandas) as well as making data visualizations (matplotlib);
