@@ -23,6 +23,7 @@
 
 ### Things I'm interested in getting into:
 - DevOps;
+- ERP software and applications;
 - Machine Learning and Large Language Models;
 - Cloud Computing;
 - More in-depth, low-level computer science;
