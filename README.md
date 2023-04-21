@@ -9,6 +9,7 @@
 - Python;
 - Javascript / Typescript;
 - R;
+- ABAP
 
 ### Stuff I can work with:
 - Fullstack web development using Python (Flask) and Javascript (React, Node.js);
