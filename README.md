@@ -1,19 +1,21 @@
 # Hi. Name's Gabriel
-## Film School guy turned Data Analytics guy. 
+## Software Developer
 
 ### I'm currently getting around the world of software development and data analytics through online courses, hoping to make myself more knowledgeable in tech and its tools.
 
 ---
 
 ### Programming languages I know:
+- Java;
+- C#;
 - Python;
 - Javascript / Typescript;
 - R;
 - ABAP
 
 ### Stuff I can work with:
-- Fullstack web development using Python (Flask) and Javascript (React, Node.js);
-- Managing and operating on relational databases (PostgreSQL, SQLite);
+- Fullstack web development using Python (Flask), Javascript (React, Node.js), Java (Spring, Hibernate, Primefaces);
+- Managing and operating on relational databases (PostgreSQL, SQLite, Oracle);
 - REST APIs;
 - Parsing and gleaning data using Python (Numpy, Pandas) as well as making data visualizations (matplotlib);
 
