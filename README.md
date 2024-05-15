@@ -11,10 +11,9 @@
 - Python;
 - Javascript / Typescript;
 - R;
-- ABAP
 
 ### Stuff I can work with:
-- Fullstack web development using Python (Flask), Javascript (React, Node.js), Java (Spring, Hibernate, Primefaces);
+- Fullstack web development using Python (Flask), Javascript (React, Node.js), Java (Spring, Hibernate, JSF/Primefaces);
 - Managing and operating on relational databases (PostgreSQL, SQLite, Oracle);
 - REST APIs;
 - Parsing and gleaning data using Python (Numpy, Pandas) as well as making data visualizations (matplotlib);
@@ -22,11 +21,9 @@
 ### What I'm currently working on:
 - Google Data Analytics Professional Certificate on Coursera;
 - Fullstack Web Development Certification at [Cubos Academy](https://cubos.academy);
-- Studying my way through the world of SAP application development and workflows with the ABAP programming language and SAP S/4HANA
 
 ### Things I'm interested in getting into:
 - DevOps;
-- Becoming SAP-certified;
 - Machine Learning and Large Language Models;
 - Cloud Computing;
 - More in-depth, low-level computer science;
