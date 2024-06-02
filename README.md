@@ -12,7 +12,7 @@
 - Javascript / Typescript;
 - R;
 
-### Stuff I can work with:
+### Stuff I have experience with:
 - Fullstack web development using Python (Flask), Javascript (React, Node.js), Java (Spring, Hibernate, JSF/Primefaces);
 - Managing and operating on relational databases (PostgreSQL, SQLite, Oracle);
 - REST APIs;
