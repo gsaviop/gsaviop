@@ -23,10 +23,8 @@
 - Fullstack Web Development Certification at [Cubos Academy](https://cubos.academy);
 
 ### Things I'm interested in getting into:
-- DevOps;
-- Machine Learning and Large Language Models;
-- Cloud Computing;
-- More in-depth, low-level computer science;
+- Containerization;
+- Network programming;
 - Supply Chain Management and logistics;
 
 
