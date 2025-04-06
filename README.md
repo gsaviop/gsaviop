@@ -1,8 +1,6 @@
 # Hi. Name's Gabriel
 ## Software Developer
 
-### I'm currently getting around the world of software development and data analytics through online courses, hoping to make myself more knowledgeable in tech and its tools.
-
 ---
 
 ### Programming languages I know:
@@ -17,16 +15,6 @@
 - Managing and operating on relational databases (PostgreSQL, SQLite, Oracle);
 - REST APIs;
 - Parsing and gleaning data using Python (Numpy, Pandas) as well as making data visualizations (matplotlib);
-
-### What I'm currently working on:
-- Google Data Analytics Professional Certificate on Coursera;
-- Fullstack Web Development Certification at [Cubos Academy](https://cubos.academy);
-
-### Things I'm interested in getting into:
-- Containerization;
-- Network programming;
-- Supply Chain Management and logistics;
-
 
 <!--
 **gsaviop/gsaviop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
