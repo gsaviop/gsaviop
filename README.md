@@ -3,7 +3,7 @@
 
 ---
 
-### Programming languages I know:
+### Programming languages I'm comfortable working with:
 - Java;
 - C#;
 - Python;
